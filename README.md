@@ -1,0 +1,2 @@
+# Named_Entity_Recognition_System_CRFpp
+For the purposes of training the NER system, the Learning Based Approach is uti-lized, using a supervised method. In particular, a Conditional Random Fields (CRF) based model has been used, which in this case is the CRFpp (CRF ++) machine learning framework since for the purposes of implementing the whole system I should use distant learning / supervision methods.
